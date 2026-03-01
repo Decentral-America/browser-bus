@@ -88,7 +88,7 @@
   "author": "Decentral-America",
   "license": "MIT",
   "dependencies": {
-    "typed-ts-events": "1.1.1"
+    "typed-ts-events": "3.0.1"
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "0.18.2",
