@@ -1,7 +1,7 @@
 {
   "name": "@decentralchain/browser-bus",
   "version": "1.0.0",
-  "description": "Cross-window browser communication library for DecentralChain DApps and wallet applications",
+  "description": "Production-grade, type-safe cross-window browser communication library for the DecentralChain blockchain ecosystem. Enables secure message passing between DApps, wallet extensions, and signing interfaces via the postMessage API.",
   "type": "module",
   "packageManager": "npm@10.9.2",
   "exports": {
@@ -78,12 +78,19 @@
   "keywords": [
     "decentralchain",
     "dcc",
+    "blockchain",
     "browser-bus",
     "postMessage",
     "cross-window",
+    "cross-origin",
     "communication",
+    "message-bus",
+    "event-bus",
+    "iframe",
     "dapp",
-    "wallet"
+    "wallet",
+    "transaction-signing",
+    "typescript"
   ],
   "author": "Decentral-America",
   "license": "MIT",
